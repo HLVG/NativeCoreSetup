@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NativeCoreSetup" parent="Theme.MaterialComponents.DayNight">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#0a58f6</item>
+        <item name="colorPrimaryVariant">#0a58f6</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#0a58f6</item>
+        <item name="colorSecondaryVariant">#6e7178</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#f2f3f5</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">#f2f3f5</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">#f2f3f5</item>
+        <item name="android:navigationBarColor">#f2f3f5</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+
+
+
+    </style>
+</resources>
