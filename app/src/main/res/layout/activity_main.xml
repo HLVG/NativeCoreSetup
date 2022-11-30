@@ -25,7 +25,7 @@
             android:paddingTop="200px"
             android:paddingEnd="50px"
             android:paddingRight="50px"
-            android:text="Hi There!  🙋"
+            android:text="Hi there!  🙋"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
         <TextView
